@@ -65,3 +65,5 @@ Tenho experiência liderando projetos e equipes, além de atuar na construção 
 
 ---
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/paulojorge81/paulojorge81/blob/output/github-contribution-grid-snake.svg)
