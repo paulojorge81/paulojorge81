@@ -17,11 +17,17 @@
       title="Total de estrelas on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/paulojorge81?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   </a>
-  <a href="https://github.com/paulojorge81?tab=repositories&sort=stargazers">
+  <a href="https://github.com/paulojorge81?tab=followers">
     <img
       alt="Seguidores"
       title="Me siga no GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/paulojorge81?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/paulojorge01">
+    <img
+      alt="Linkedin"
+      title="Meu Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -67,29 +73,35 @@
 
 ---
 
-
-
 ### 📊  Estatísticas
 
-<!-- ![paulojorge81's Stats](https://github-readme-stats.vercel.app/api?username=paulojorge81&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117)
-![paulojorge81's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=midnight-purple&show_icons=true&hide_border=false&bg_color=0d1117) -->
+<p>
+  <img
+    align="center"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api?username=paulojorge81&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&locale=pt-br&count_private=true"
+  />
+  <img
+    align="center"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px"
+    src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats"
+  />
+  <img
+    align="center"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
 <p>
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=paulojorge81&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&include_all_commits=false&locale=pt-br"
-  />
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=midnight-purple&show_icons=true&hide_border=false&bg_color=0d1117&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+    src="https://raw.githubusercontent.com/paulojorge81/paulojorge81/output/snake.svg" alt="Snake animation" />
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/paulojorge81/paulojorge81/output/snake.svg" alt="Snake animation" />
