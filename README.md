@@ -95,7 +95,7 @@
     alt="GitHub Top Langs"
     height="170px"
     style="padding-right: 16px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&&layout=compact&custom_title=Tecnologias&lang_count=9"
   />
 </p>
 
