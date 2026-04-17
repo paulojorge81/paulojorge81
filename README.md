@@ -92,7 +92,7 @@
   />
   <img
     align="center"
-    alt="GitHub Stats"
+    alt="GitHub Top Langs"
     height="170px"
     style="padding-right: 16px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&&layout=compact&custom_title=Tecnologias&langs_count=9"
@@ -102,6 +102,6 @@
 <p>
   <img
     align="left"
-    alt="GitHub Stats"
+    alt="GitHub Commits"
     src="https://raw.githubusercontent.com/paulojorge81/paulojorge81/output/snake.svg" alt="Snake animation" />
 </p>
