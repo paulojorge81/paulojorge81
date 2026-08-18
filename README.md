@@ -83,7 +83,13 @@
     style="padding-right: 16px"
     src="https://github-stats-extended.vercel.app/api?username=paulojorge81&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&locale=pt-br&count_private=true"
   />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR" alt="GitHub Streak" /></a>
+  <img
+    align="center"
+    alt="GitHub Stats"
+    height="170px"
+    style="padding-right: 16px"
+    src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR&short_numbers=true"
+  />
   <img
     align="center"
     alt="GitHub Top Langs"
