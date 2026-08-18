@@ -88,7 +88,7 @@
     alt="GitHub Stats"
     height="170px"
     style="padding-right: 16px"
-    src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats"
+    src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR)](https://git.io/streak-stats)"
   />
   <img
     align="center"
