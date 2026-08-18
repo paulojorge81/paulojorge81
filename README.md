@@ -75,29 +75,29 @@
 
 
 
-<!-- <p> -->
-  <!-- <img
+<p>
+  <img
     align="center"
     alt="GitHub Stats"
     height="170px"
     style="padding-right: 16px"
-    src="https://github-readme-stats.vercel.app/api?username=paulojorge81&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&locale=pt-br&count_private=true"
-  /> -->
-  <!-- <img
+    src="https://github-stats-extended.vercel.app/api?username=paulojorge81&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&locale=pt-br&count_private=true"
+  />
+  <img
     align="center"
     alt="GitHub Stats"
     height="170px"
     style="padding-right: 16px"
     src="https://streak-stats.demolab.com?user=paulojorge81&theme=aura&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats"
-  /> -->
-  <!-- <img
+  />
+  <img
     align="center"
     alt="GitHub Top Langs"
     height="170px"
     style="padding-right: 16px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=9"
-  /> -->
-<!-- </p> -->
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=paulojorge81&theme=aura&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
 <p>
   <img
